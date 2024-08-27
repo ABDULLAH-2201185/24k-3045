@@ -15,3 +15,6 @@ programming fundamentals fall 2024
  git status
  git add
  git commit
+ - George Washington
+ * John Adams
+ + Thomas Jefferson
