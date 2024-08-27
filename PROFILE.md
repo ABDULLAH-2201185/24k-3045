@@ -21,3 +21,6 @@ programming fundamentals fall 2024
 1. James Madison
  2. James Monroe
  3. John Quincy Adams
+01 1. First list item
+02 - First nested list item
+03 - Second nested list item
