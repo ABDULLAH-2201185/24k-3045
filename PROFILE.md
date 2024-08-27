@@ -26,3 +26,5 @@ programming fundamentals fall 2024
 03 - Second nested list item
 04 - [x] #739
 05 - [ ] https://github.com/octo-org/octo-repo/issues/740
+06 - [ ] Add delight to the experience when all tasks are
+complete :tada:
