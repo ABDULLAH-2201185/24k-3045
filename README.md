@@ -10,4 +10,9 @@ programming fundamentals fall 2024
 Text that is not a quote
 > Text that is quote
 Use `git status` to list all new or modified files that haven't yet been committed.
->  Some basic Git commands are:
+02 Some basic Git commands are:
+03 ```
+git status
+git add
+git commit
+
