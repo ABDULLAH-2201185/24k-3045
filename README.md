@@ -9,3 +9,5 @@ programming fundamentals fall 2024
 ~~OOPS I made an error~~
 Text that is not a quote
 > Text that is quote
+Use `git status` to list all new or modified files that haven't yet been committed.
+>  Some basic Git commands are:
